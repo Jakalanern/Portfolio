@@ -31,6 +31,11 @@
             x='48'
             y='7'
             fill='rgba(0, 200, 150,0.4)'></use>
+            <use
+            xlink:href='#gentle-wave'
+            x='48'
+            y='8'
+            fill='rgba(0, 200, 150,1)'></use>
         </g>
       </svg>
 
